@@ -6,6 +6,7 @@ public class Prem {
 
 			System.out.println("Shahbaz");
 			System.out.println("Shivu");
+			System.out.println("Prem");
 	}
 
 }
